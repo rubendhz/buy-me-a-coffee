@@ -1,8 +1,10 @@
 Buy me a coffee
 ===============
 
-If you find my projects helpful or enjoy what I’m building, consider buying me a coffee. Your support helps keep new ideas coming. 
+If you find my projects helpful or enjoy what I’m building, consider buying me a coffee. Your support helps keep new ideas coming.
 
 <a href="https://www.buymeacoffee.com/rubendhz" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 37px !important;width: 170px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
+This is [me](https://www.linkedin.com/in/rubendz/) by the way :) 
 
 Thanks for your support!
